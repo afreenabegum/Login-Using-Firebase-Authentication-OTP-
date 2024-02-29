@@ -2,6 +2,12 @@
 
 In this app, users can seamlessly verify their phone numbers using OTP (One-Time Password) sent via SMS, using Firebase's robust infrastructure to handle the authentication process securely.
 
+**Video**
+
+
+https://github.com/afreenabegum/Login-Using-Firebase-OTP-Authentication/assets/79068663/282e697c-eca9-4f26-ab6e-9bb824cc2fd6
+
+
 
 **UI** : 
 
